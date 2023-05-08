@@ -22,6 +22,8 @@ All game objects are entities, and the components they have determine their look
 Beyond that there is the menus to start and end the game, and the game loop itself.
 
 ## Building and Running
+```
 $ cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
 $ cmake --build build
 $ ./build/CMakeSFMLProject
+```
