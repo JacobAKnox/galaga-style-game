@@ -1,0 +1,5 @@
+width: 1000
+height: 600
+size: 40.0
+enemies: 10
+asset_path:assets
